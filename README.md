@@ -45,9 +45,42 @@ The dashboard helps stakeholders make data-driven decisions by identifying key r
 
 Below are some key SQL queries used to analyze the dataset:
 
-<h4>1️⃣ Total Revenue</h4>
   
   <img width="792" height="902" alt="image" src="https://github.com/user-attachments/assets/bc8791c4-e5e3-40ca-9ba3-7692497fed93" />
+
+<img width="790" height="687" alt="image" src="https://github.com/user-attachments/assets/c7ede6cc-ca30-4edd-a632-b7fe20470050" />
+
+<h2>📈 Insights Gained</h2>
+
+- Delhi NCR is the highest revenue-generating market
+
+- Revenue shows seasonal trends and fluctuations
+
+- Few customers contribute a major share of revenue
+
+- Top products drive business growth significantly
+
+<h3>🎯 Business Use Cases</h3>
+
+- Identify top-performing markets and products
+
+- Improve customer targeting strategies
+
+- Analyze sales trends over time
+
+- Support data-driven decision-making
+
+<h2>🔗 Project Links</h2>
+
+💻 GitHub Repository:
+
+
+
+
+
+
+
+
 
 
 
