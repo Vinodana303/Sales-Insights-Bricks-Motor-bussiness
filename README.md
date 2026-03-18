@@ -72,7 +72,7 @@ Below are some key SQL queries used to analyze the dataset:
 
 <h2>🔗 Project Links</h2>
 
-💻 GitHub Repository:
+💻 GitHub Repository: https://github.com/Vinodana303/Sales-Insights-Bricks-Motor-bussiness/blob/main/sales%20data.pbix
 
 
 
