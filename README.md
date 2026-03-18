@@ -74,6 +74,16 @@ Below are some key SQL queries used to analyze the dataset:
 
 💻 GitHub Repository: https://github.com/Vinodana303/Sales-Insights-Bricks-Motor-bussiness/blob/main/sales%20data.pbix
 
+<img width="1160" height="791" alt="image" src="https://github.com/user-attachments/assets/610590e6-d57e-48da-bdc9-82836a06e8a3" />
+
+
+<h1>📬 Contact</h1>
+
+<h3>📧 Email:</h3> vinodkumaranagoni303@gmail.com
+
+<h3>⭐ Support</h3>
+
+If you found this project helpful, please give it a ⭐ on GitHub!
 
 
 
