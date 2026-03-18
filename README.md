@@ -47,7 +47,8 @@ Below are some key SQL queries used to analyze the dataset:
 
 <h4>1️⃣ Total Revenue</h4>
   
-  
+  <img width="792" height="902" alt="image" src="https://github.com/user-attachments/assets/bc8791c4-e5e3-40ca-9ba3-7692497fed93" />
+
 
 
 
